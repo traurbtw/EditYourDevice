@@ -1,6 +1,6 @@
 # EditYourDevice
 EditYourDevice - смена названия ваших девайсов за пару кликов ⚙
-CPU, GPU, RAM 
+
 
 # Guidance // Гайд
 
