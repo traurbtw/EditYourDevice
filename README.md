@@ -1,5 +1,7 @@
 # EditYourDevice
 EditYourDevice - changing the name of your devices
+Программа для изменения названия ваших девайсов
+CPU, GPU, RAM 
 
 # Guidance // Гайд
 
