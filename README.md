@@ -1,7 +1,7 @@
 # EditYourDevice
 EditYourDevice - changing the name of your devices
 
-$ Guidance // Гайд
+# Guidance // Гайд
 
 RU:
 1. Скачиваем, открываем файл EditYourDevice.exe
