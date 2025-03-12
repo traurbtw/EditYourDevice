@@ -1,5 +1,6 @@
 # EditYourDevice
-EditYourDevice - смена названия ваших девайсов за пару кликов ⚙
+EditYourDevice - смена названия ваших девайсов за пару кликов 
+
 
 
 # Guidance // Гайд
